@@ -11,10 +11,6 @@ A sophisticated and fully responsive interior design and architecture website sh
   
 </div>
 
-## 🚀 Live Demo
-
-Experience the elegance: **[View Live Site](https://zahid-official.github.io/milestone-03-rinterio/)**
-
 ## 📋 Table of Contents
 
 - [Overview](#-overview)

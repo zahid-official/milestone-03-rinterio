@@ -1,6 +1,6 @@
 # 🏡 Rinterio - Interior Design & Architecture
 
-A sophisticated and fully responsive interior design and architecture website showcasing barn house designs, portfolio projects, client testimonials, and comprehensive design services. Built with modern web technologies including Tailwind CSS for a sleek, professional appearance.
+**Rinterio** is a premium interior design and architecture showcase website that presents barn house designs with striking modern aesthetics. The platform combines innovative architecture with functional living spaces, featuring a comprehensive portfolio of commercial and residential projects, client testimonials, and an intuitive design process workflow.
 
 <div align="center">
   
@@ -10,10 +10,6 @@ A sophisticated and fully responsive interior design and architecture website sh
   ![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)
   
 </div>
-
-## 🎯 Overview
-
-**Rinterio** is a premium interior design and architecture showcase website that presents barn house designs with striking modern aesthetics. The platform combines innovative architecture with functional living spaces, featuring a comprehensive portfolio of commercial and residential projects, client testimonials, and an intuitive design process workflow.
 
 ## ✨ Features
 

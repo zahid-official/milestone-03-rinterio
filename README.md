@@ -186,9 +186,3 @@ The website demonstrates professional-level design and development capabilities,
   <p><i>Crafting delightful web experiences with modern technologies</i></p>
 </div>
 
----
-
-<div align="center">
-  <p>⭐ Star this repository if you find it helpful!</p>
-  <p>Built with 💚 for the design community</p>
-</div>
